@@ -3,3 +3,7 @@ commit f_1.2
 commit 3
 commit 4
 commit 5
+
+init commit - git-test2
+commit 1 - git-test2
+commit 2 - git-test2
