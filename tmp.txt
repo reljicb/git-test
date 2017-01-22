@@ -2,3 +2,4 @@ init commit - git-test2
 commit 1 - git-test2
 init commit - git-test2
 commit 1 - git-test2
+commit 2 - git-test2
